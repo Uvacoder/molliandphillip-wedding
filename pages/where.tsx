@@ -63,7 +63,7 @@ export default function Where() {
           height="450" 
           style={{ border: 0 }}
           loading="lazy" 
-          referrerpolicy="no-referrer-when-downgrade"         
+          referrerPolicy="no-referrer-when-downgrade"         
           onLoad={onOpen}
         ></iframe>
       </Stack>
