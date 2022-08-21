@@ -23,12 +23,12 @@ export default function When() {
             Saturday
           </Heading>
           <Heading as="h2" fontSize={"3rem"} fontFamily={"Jeanne Moderno"}>
-            October 1st, 2022
+            May 14th, 2022
           </Heading>
           <Text opacity={0.8}>
             That{"'"}s{" "}
             {formatDistance(
-              new Date("2022-010-1T15:30:00.000+07:00"),
+              new Date("2022-05-14T15:30:00.000+07:00"),
               new Date(),
               {
                 addSuffix: true,
