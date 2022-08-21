@@ -22,30 +22,6 @@ export default function Where() {
             fontSize={"sm"}
             fontWeight="normal"
             textTransform={"uppercase"}
-import {
-  Stack,
-  Heading,
-  Text,
-  Button,
-  useDisclosure,
-  Spinner,
-  CircularProgress,
-  Grid,
-  Flex,
-} from "@chakra-ui/react";
-import { Shell } from "../components/shell";
-
-export default function Where() {
-  const { isOpen, onOpen } = useDisclosure();
-  return (
-    <Shell backgroundColor="#fff" textColor="#aa3007">
-      <Stack width="100%" maxW="48rem" px={2} pb={32}>
-        <Flex py={2}>
-          <Heading
-            as="h1"
-            fontSize={"sm"}
-            fontWeight="normal"
-            textTransform={"uppercase"}
             py={2}
           >
             Location
