@@ -13,7 +13,7 @@ export default function Home() {
         justifyContent="flex-end"
       >
         <Heading fontFamily={"Jeanne Moderno"} textAlign="center" mt={16}>
-          Meisya and Odi are getting married!
+          Molli and Phillip are getting married!
         </Heading>
         <Image src="nft.gif" w={"100%"} maxW={"1000px"} />
       </Flex>
