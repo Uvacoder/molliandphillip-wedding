@@ -10,13 +10,13 @@ export default function RSVP() {
           Received an invitation? Confirm below.
         </Heading>
         <Text>
-          Unfortunately, pandemic wedding restrictions still apply. That means,
-          to ensure everyone’s safety and peace of mind:
+          We will be outside for both the ceremony and after party so we are not
+          requiring people to wear masks.
         </Text>
 
-        <Text>- Respectfully, no plus ones;</Text>
+        <Text>- Please respect everyone else;</Text>
         <Text>
-          - Please keep your masks on and have your PeduliLindungi app ready.
+          - No need to bring anything.
         </Text>
 
         <PopupButton id="U19zGvXO">
