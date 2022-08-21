@@ -15,13 +15,13 @@ export default function Who() {
           Celebrating the union of
         </Heading>
         <Heading as="h2" fontFamily={"Jeanne Moderno"} py={4}>
-          Meisya Citraswara Vieranaputri
+          Molli Brooke Campbell
         </Heading>
         <Text fontSize={"sm"} fontWeight="normal" textTransform={"uppercase"}>
-          Mr. Masrana Sama
+          Mr. Bruce Donald Campbell
         </Text>
         <Text fontSize={"sm"} fontWeight="normal" textTransform={"uppercase"}>
-          Mrs. Evie Herniwati Rachmat
+          Mrs. Paula Renert Campbell
         </Text>
 
         <Heading as="h3" fontFamily={"Jeanne Moderno"} py={8}>
@@ -29,13 +29,13 @@ export default function Who() {
         </Heading>
 
         <Heading fontFamily={"Jeanne Moderno"} py={4}>
-          Muhammad Mustadi
+          Phillip Phillip
         </Heading>
         <Text fontSize={"sm"} fontWeight="normal" textTransform={"uppercase"}>
-          Mr. Abdul Karim Almasyhar
+          Mr. Phillip Dad
         </Text>
         <Text fontSize={"sm"} fontWeight="normal" textTransform={"uppercase"}>
-          Mrs. Vina Lucky Kaniasari
+          Mrs. Phillip Mom
         </Text>
       </Flex>
     </Shell>
