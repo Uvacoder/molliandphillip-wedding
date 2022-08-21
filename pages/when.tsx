@@ -23,7 +23,7 @@ export default function When() {
             Saturday
           </Heading>
           <Heading as="h2" fontSize={"3rem"} fontFamily={"Jeanne Moderno"}>
-            May 14th, 2022
+            September 22, 1986
           </Heading>
           <Text opacity={0.8}>
             That{"'"}s{" "}
@@ -105,7 +105,7 @@ export default function When() {
                 endDate: "2022-05-14",
                 endTime: "21:00:00",
 
-                location: "Pullman Jakarta Central Park",
+                location: "",
                 options: [
                   "Apple",
                   "Google",
