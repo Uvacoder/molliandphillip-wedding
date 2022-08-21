@@ -28,12 +28,12 @@ export default function Where() {
           </Heading>
         </Flex>
         <Heading as="h2" fontFamily={"Jeanne Moderno"}>
-          Pullman Hotel Central Park
+          Camp Albemarle
         </Heading>
-        <Text>Grand Ballroom 1</Text>
+        <Text>Pavilion One</Text>
         <Flex pb={4}>
           <Text opacity={0.8}>
-            Podomoro City, Jl. Let. Jend. S. Parman Kav. 28, Jakarta, Indonesia
+            Free Union, Virginia
           </Text>
         </Flex>
         {!isOpen && (
