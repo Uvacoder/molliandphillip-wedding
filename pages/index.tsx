@@ -15,7 +15,7 @@ export default function Home() {
         <Heading fontFamily={"Jeanne Moderno"} textAlign="center" mt={16}>
           Molli and Phillip are getting married!
         </Heading>
-        <Image src="mylilponydancing.gif" w={"100%"} maxW={"1000px"} />
+        <Image src="mileyeyeroll.gif" w={"100%"} maxW={"1000px"} />
       </Flex>
     </Shell>
   );
